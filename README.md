@@ -6,7 +6,7 @@ APIer baserat på skrapad data från helsingborg.se som en del av [Öppna Helsin
 Följ Öppna Helsingborg på Twitter: [@oppnadatahbg](https://twitter.com/oppnadatahbg)
 
 ##Applikationen
-Detta är en Ruby on Rails applikation som hämtar information från helsingborg.se och gör den tillgänglig i JSON-foramt via ett API. Applikationen finns tillgänglig på Heroku för den som vill testa APIerna själv. Notera att vi använder Herokus gratisversion och att prestandan därför är relativt dålig. 
+Detta är en Ruby on Rails applikation som hämtar information från helsingborg.se och gör den tillgänglig i JSON-format via ett API. Applikationen finns tillgänglig på Heroku för den som vill testa APIerna själv. Notera att vi använder Herokus gratisversion och att prestandan därför är relativt dålig. 
 
 ##Detaljplaner API v1
 URL: [hbgscraped.herokuapp.com/v1/detaljplaner](http://hbgscraped.herokuapp.com/v1/detaljplaner)
