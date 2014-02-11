@@ -23,4 +23,4 @@ URL: [hbgscraped.herokuapp.com/v1/evenemang](http://hbgscraped.herokuapp.com/v1/
 
 Hämtar information från [helsingborg.se/Besokare/gora/listar-interna-evenemang](http://www.helsingborg.se/Besokare/gora/listar-interna-evenemang)
 
-Ange query parametrarna *to* och *from* i formatet YYYY-MM-DD för att begränsa sökningen till vissa datum.
+Ange query parametrarna *to* och *from* i formatet YYYY-MM-DD för att begränsa sökningen till vissa datum, tex [hbgscraped.herokuapp.com/v1/evenemang?from=2014-02-01&to=2014-02-28](http://hbgscraped.herokuapp.com/v1/evenemang?from=2014-02-01&to=2014-02-28).
